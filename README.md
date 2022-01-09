@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
-<h3 align="center">I am passionate about Android and having interests in AR/VR,ML/AI and open source.</h3>
+<h3 align="center">I am passionate about Android and having interests in Android,ML/AI and open source.</h3>
 
 - 🔭 I’m currently working on **improving my android skills and learning new skills.**
 
-- 🌱 I’m currently learning **Android, DSA, AR/VR.**
+- 🌱 I’m currently learning **Advance Android, DSA, Web Dev .**
 
 - 👯 I’m looking to collaborate on **exciting Android Projects**
 
