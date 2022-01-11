@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
-<h3 align="center">I am passionate about Android and having interests in Android,ML/AI and open source.</h3>
+<h3 align="center">I am passionate about Android and having interests in ML/AI,Cloud and open source.</h3>
 
 - 🔭 I’m currently working on **improving my android skills and learning new skills.**
 
-- 🌱 I’m currently learning **Advance Android, DSA, Web Dev .**
+- 🌱 I’m currently learning **Android, DSA, Web Dev .**
 
-- 👯 I’m looking to collaborate on **exciting Android Projects**
+- 👯 I’m looking to collaborate on **exciting projects on IOT and android**
 
 - 📫 How to reach me **amartyasingh2002@gmail.com**
 
