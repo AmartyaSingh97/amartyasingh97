@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
-<h3 align="center">I am passionate about Android and having interests in ML/AI,Cloud and open source.</h3>
+<h3 align="center">I am passionate about Coding and have interests in Web Dev,IOT and AI.</h3>
 
 - 🔭 I’m currently working on **CryptoTracker Website for college project**
 
