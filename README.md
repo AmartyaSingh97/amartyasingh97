@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/h202052305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h202052305" height="30" width="40" /></a>
   
 <a href="https://www.leetcode.com/camt_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camt_bot" height="30" width="40" /></a>
-<a href="https://www.codeforces.com/camt_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="camt_bot" height="30" width="40" /></a>
+<a href="https://www.codeforces.com/profile/camt_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="camt_bot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
