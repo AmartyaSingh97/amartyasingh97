@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
 <h3 align="center">I am passionate about Coding and have interests in Web Dev,IOT and AI.</h3>
 
-- 🔭 I’m currently working on **CryptoTracker Website for college project**
+- 🔭 I’m currently working on **Coaching Management App**
 
-- 🌱 I’m currently learning **Web Dev, DSA .**
+- 🌱 I’m currently learning **Android, DSA .**
 
 - 📫 How to reach me **amartyasingh2002@gmail.com**
 
