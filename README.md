@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
-<h3 align="center">I am passionate about Coding and have interests in Android,AR,IOT and AI.</h3>
+<h3 align="center">I am passionate about Coding and have interests in Android,AR,Software Development and AI.</h3>
 
-- 🔭 I’m currently working on **Coaching Management App**
+- 🔭 I’m currently working on **Android App**
 
 - 🌱 I’m currently learning **Android, DSA .**
 
