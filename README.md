@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" /> </p>
 
-- 🔭 I’m currently working on **some personal projects**
+- 🔭 I’m currently working on **some open-source projects**
 
 - 🌱 I’m currently learning **Backend Development using Django and Deep Learning.**
 
