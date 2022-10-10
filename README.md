@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amartya</h1>
 <h3 align="center">I am passionate about Open source and having interests in Deep Learning, Competitive Programming and Software Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" /> </p>
-[![Leetcode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmugdha1717&logo=leetcode&logoColor=yellow)](https://leetcode.com/camt_bot/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" /> 
+[![Leetcode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmugdha1717&logo=leetcode&logoColor=yellow)](https://leetcode.com/camt_bot/) </p>
 
 - 🔭 I’m currently working on **some open-source projects**
 
