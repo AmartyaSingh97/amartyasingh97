@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
 
 
-- 🔭 I’m currently working on **some open-source projects**
-
-- 🌱 I’m currently learning **Backend Development using Django and Deep Learning.**
+- 🔭 I’m currently working as an **Android Developer.**
 
 - 📫 How to reach me **amartyasingh2002@gmail.com**
 
-- ⚡ Fun fact **I love cats '-'**
+- ⚡ Fun fact **I love cats ('-')**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
