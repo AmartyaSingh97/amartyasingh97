@@ -6,9 +6,11 @@
 
 - 🔭 I’m currently working as an **Android Developer.**
 
-- 📫 How to reach me **amartyasingh2002@gmail.com**
+- 📫 Shoot me an email at **amartyasingh2002@gmail.com**
+  
+- 🚀 I love to build new things.  
 
-- ⚡ Fun fact **I love cats ('-')**
+- ⚡ Fun fact **I love cats 🤩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
