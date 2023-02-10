@@ -10,7 +10,7 @@
   
 - 🚀 I love to build new things.  
 
-- ⚡ Fun fact **I love cats 🤩**
+- 😀 Fun fact **I love cats 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
