@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%","height: 20%"/>
+</div>
 <h1 align="center">I'm Amartya</h1>
 <h3 align="center">I am a passionate programmer with experience in Full Stack Android Development and Problem Solving.</h3>
 
