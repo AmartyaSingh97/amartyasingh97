@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Folks👋,I'm Amartya</h1>
+<h1 align="center"> Hey Folks👋, I'm Amartya</h1>
 <h3 align="center">I am a passionate programmer with experience in Full Stack Android Development and Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
