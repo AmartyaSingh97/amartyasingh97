@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyasingh97&show_icons=true&locale=en" alt="amartya" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSingh97&theme=highcontrast)](https://git.io/streak-stats)
+<p><img align="center" src="https://streak-stats.demolab.com/?user=amartyasingh97&theme=violet-punch" alt="amartya" /></p>
