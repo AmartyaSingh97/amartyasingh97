@@ -48,6 +48,6 @@
 
 <div align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/camt_bot?theme=dark&font=DM%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/camt_bot?theme=dark&font=DM%20Sans&ext=contest)
  
 </div> 
