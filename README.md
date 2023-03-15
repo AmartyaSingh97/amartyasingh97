@@ -44,7 +44,10 @@
   
 </div>  
 
-## 🧑‍💻 Leetcode Stats
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/camt_bot?theme=""/>
-</p>
+## 🧑‍💻 Leetcode Stats:
+
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/camt_bot?theme=dark&font=DM%20Sans&ext=heatmap)
+ 
+</div> 
