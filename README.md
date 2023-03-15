@@ -31,4 +31,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyasingh97&show_icons=true&locale=en&theme=midnight-purple" alt="amartya" /></p>
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+  
+</div>  
+
+## 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/camt_bot?theme=""/>
+</p>
