@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/camt_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camt_guy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amartya-singh-8819381b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amartya-singh-8819381b0" height="30" width="40" /></a>
-<a href="https://instagram.com/_a_m_a_r_t_y_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_m_a_r_t_y_a_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/camt_bot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camt_bot" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h202052305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h202052305" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/camt_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="camt_bot" height="30" width="40" /></a>
