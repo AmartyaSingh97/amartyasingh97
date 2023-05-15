@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
 
 
-- 🔭 I’m currently Building **[Ownsfare](https://www.ownsfare.com/)**
+- 🔭 I’m currently Building working as an Android Developer.
 
 - 📫 Shoot me an email at **amartyasingh2002@gmail.com**
   
