@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyasingh97&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="amartya"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyasingh97&show_icons=true&locale=en&theme=midnight-purple" alt="amartya"
+<p>&nbsp;<img align="center" src="https://readme-stats-safk-amartyasingh97s-projects.vercel.app/api?username=amartyasingh97&show_icons=true&locale=en&theme=midnight-purple" alt="amartya"
    /></p>
   
 </div>  
