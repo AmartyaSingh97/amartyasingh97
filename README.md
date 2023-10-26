@@ -8,9 +8,9 @@
 
 - 📫 Shoot me an email at **amartyasingh2002@gmail.com**
   
-- 🚀 I love to build new things.  
+- 🚀 I love to fix bugs and build awesome UI.  
 
-- 😀 Fun fact **I love cats 😍**
+- 😀 Fun fact **I love cooking and cats 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
