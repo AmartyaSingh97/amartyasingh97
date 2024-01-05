@@ -1,10 +1,10 @@
 <h1 align="center"> Hey Folks🤗, I'm Amartya</h1>
-<h3 align="center">I am a passionate programmer with experience in Full Stack Native Android Development.</h3>
+<h3 align="center">I am a passionate programmer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
 
 
-- 🔭 I’m currently working as an Android Developer at a rapid-pace startup with 100k+ monthly users.
+- 🔭 I’m currently working as an Android Developer at a rapid-pace startup with 700k+ users.
 
 - 📫 Shoot me an email at **amartyasingh2002@gmail.com**
   
