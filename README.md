@@ -1,14 +1,14 @@
 <h1 align="center"> Hey Folks🤗, I'm Amartya</h1>
-<h3 align="center">I am a passionate programmer with 1+ years of experience in Android Development.</h3>
+<h3 align="center">A passionate programmer with 1+ years of experience in Android Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
 
 
-- 🔭 I’m currently working as an Android Developer at a rapid-pace startup with 1M+ users.
+- 🔭 Building Android applications at [**OpeninApp**](https://openinapp.com/).
 
 - 📫 Shoot me an email at **amartyasingh2002@gmail.com**
   
-- 🚀 I love to fix bugs and build awesome UI.  
+- 🚀 Love building scalable and resilient applications used by millions of users.  
 
 - 😀 Fun fact **I love cooking and cats 😍**
 
