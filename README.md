@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Folks🤗, I'm Amartya</h1>
-<h3 align="center">A passionate programmer with 1+ years of experience in Mobile Development.</h3>
+<h3 align="center">A passionate programmer with 2+ years of experience in Mobile Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97" </p> 
 
