@@ -40,8 +40,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-amartyasingh97s-projects.vercel.app?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-  
 </div>  
 
 ## 🧑‍💻 Leetcode Stats:
