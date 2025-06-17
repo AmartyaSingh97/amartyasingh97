@@ -33,19 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyasingh97&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="amartya"  /></p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-amartyasingh97s-projects.vercel.app/api?username=amartyasingh97&show_icons=true&locale=en&theme=midnight-purple" alt="amartya"
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats-amartyasingh97s-projects.vercel.app/?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=5" alt="amartya"
    /></p>
   
 </div>  
-
-<div align="center">
-  
-</div>  
-
-## 🧑‍💻 Leetcode Stats:
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/camt_bot?theme=dark&font=DM%20Sans&ext=contest)
- 
 </div> 
