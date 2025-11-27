@@ -3,7 +3,7 @@
 <h3 align="center">Mobile Developer | 2+ years of experience | Kotlin • Jetpack Compose • SwiftUI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=amartyasingh97&label=Profile%20views&color=0e75b6&style=flat" alt="amartyasingh97"/>
 </p>
 
 ---
