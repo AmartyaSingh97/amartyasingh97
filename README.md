@@ -5,13 +5,13 @@
 ### 🚀 About Me
 
 - 💻 Building high-performance **mobile applications** using **Kotlin, Jetpack Compose & SwiftUI**  
-- 📱 Creator of **Rentory — A Property Management App**  
-  <a href="https://play.google.com/store/apps/details?id=geekycats.rentory&hl=en_IN" target="_blank">
-    👉 Available on Play Store
+- 📱 Checkout my apps on **PlayStore**  
+  <a href="https://play.google.com/store/apps/dev?id=5278427828432843524">
+    👉 Design and built from scratch.
   </a>
-- 🧠 Passionate about **scalable systems** and products used by millions
+- 🧠 Passionate about **scalable and high performance applications**.
 - 📫 Reach me at **amartyasingh2002@gmail.com**
-- 😺 Fun fact: **I love cooking and cats**
+- 😺 Fun fact: **I love cooking and cats**.
 
 ---
 
