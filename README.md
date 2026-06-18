@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=220&section=header&text=Hey%2C%20I%27m%20Amartya%20%F0%9F%91%8B&fontSize=52&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20SwiftUI&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=220&section=header&text=Hey%2C%20I%27m%20Amartya%20%F0%9F%91%8B&fontSize=52&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Android%20%E2%80%A2%20Compose%20Multiplatform%20%E2%80%A2%20SwiftUI&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
@@ -41,6 +41,9 @@
 <a href="https://linkedin.com/in/amartya-singh-8819381b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
+<a href="https://play.google.com/store/apps/dev?id=5278427828432843524" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="PlayStore" />
+</a>&nbsp;  
 <a href="mailto:amartyasingh2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
