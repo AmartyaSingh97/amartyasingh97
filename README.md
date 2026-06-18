@@ -81,7 +81,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-amartyasingh97s-projects.vercel.app/?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=10" height="170" alt="streak graph"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaSingh97&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=10" height="170" alt="github stats"/>
 </div>
 
 <br/>
