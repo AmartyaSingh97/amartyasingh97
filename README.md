@@ -79,14 +79,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-amartyasingh97s-projects.vercel.app/?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=10" height="170" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats-mauve-eight.vercel.app?user=AmartyaSingh97&theme=violet-punch&hide_border=true&border_radius=10" height="170" alt="streak graph"/>
   &nbsp;&nbsp;
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSingh97&theme=radical&hide_border=true&layout=compact&border_radius=10&langs_count=8" height="150" alt="top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AmartyaSingh97&layout=compact&langs_count=4&hide_values=true&theme=radical&hide_border=true&layout=compact&border_radius=10&langs_count=8" height="150" alt="top languages"/>
 </div>
 
 ---
