@@ -31,7 +31,7 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 <p align="center">
 
 <a href="https://amartya.cc" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-amartya.cc-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-amartya-A855F7?style=for-the-badge"/>
 </a>
 
 <a href="https://play.google.com/store/apps/dev?id=5278427828432843524" target="_blank">
