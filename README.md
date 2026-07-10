@@ -18,7 +18,7 @@ Android • Kotlin • Jetpack Compose • Compose Multiplatform • SwiftUI
 
 I'm a **Mobile Engineer** focused on building modern, scalable and high-performance mobile applications.
 
-- 📱 3+ years building Android applications
+- 📱 3+ years building Mobile applications
 - 🚀 Products used by **10M+ users**
 - 📦 5+ production applications shipped
 - 🏗️ Passionate about Clean Architecture, performance and offline-first systems
@@ -162,7 +162,7 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 |----------|-------------|
 | **Rentory** | Offline-first property management platform built with Compose Multiplatform |
 | **Scroov** | AI-powered food intelligence app using Jetpack Compose & Kotlin |
-| **Tutory** | Educational platform published on Google Play |
+| **Tutory** | Education institute management platform |
 
 👉 Explore them in detail on **https://amartya.cc**
 
