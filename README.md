@@ -34,7 +34,7 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 <img src="https://img.shields.io/badge/🌐_Portfolio-amartya-A855F7?style=for-the-badge"/>
 </a>
 
-<a href="https://play.google.com/store/apps/dev?id=5278427828432843524" target="_blank">
+<a href="https://amartya.cc/projects" target="_blank">
 <img src="https://img.shields.io/badge/Google_Play-My_Apps-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
@@ -160,11 +160,11 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 
 | Project | Description |
 |----------|-------------|
-| **Rentory** | Offline-first property management platform built with Compose Multiplatform |
+| **[Rentory](https://rentory.amartya.cc/)** | Offline-first property management platform built with Compose Multiplatform |
 | **Scroov** | AI-powered food intelligence app using Jetpack Compose & Kotlin |
 | **Tutory** | Education institute management platform |
 
-👉 Explore them in detail on **https://amartya.cc**
+👉 Explore them in detail on **https://amartya.cc/projects**
 
 ---
 
