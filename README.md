@@ -20,7 +20,7 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 
 - 📱 3+ years building Mobile applications
 - 🚀 Products used by **10M+ users**
-- 📦 5+ production applications shipped
+- 📦 10+ production applications shipped
 - 🏗️ Passionate about Clean Architecture, performance and offline-first systems
 - 🍎 Currently expanding into iOS with SwiftUI & Compose Multiplatform
 
