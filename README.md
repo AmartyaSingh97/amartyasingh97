@@ -162,7 +162,7 @@ I'm a **Mobile Engineer** focused on building modern, scalable and high-performa
 |----------|-------------|
 | **[Rentory](https://rentory.amartya.cc/)** | Offline-first property management platform built with Compose Multiplatform |
 | **[Scroov](https://www.scroov.in/)** | AI-powered food intelligence app using Jetpack Compose & Kotlin |
-| **[Tutory](https://play.google.com/store/apps/details?id=geekycats.tutory&hl=en_IN)** | Education institute management platform |
+| **[Tutory](https://tutory.amartya.cc/)** | Education institute management platform |
 
 👉 Explore them in detail on **https://amartya.cc/projects**
 
